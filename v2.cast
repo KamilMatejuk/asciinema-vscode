@@ -1,4 +1,4 @@
-{"version": 2, "width": 101, "height": 55, "timestamp": 1621798580, "idle_time_limit": 0.2, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+{"version": 2, "width": 101, "height": 55, "timestamp": 1621798580, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}, "idle_time_limit": 0.2}
 [  0.044705, "o", "\u001b]0;kamil@kamil-Lenovo: ~\u0007\u001b[01;32mkamil@kamil-Lenovo\u001b[00m:\u001b[01;34m~\u001b[00m$ "]
 [  3.583018, "o", "#"]
 [  4.634731, "o", "#"]

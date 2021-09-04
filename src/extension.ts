@@ -9,6 +9,8 @@ export function activate(context: vscode.ExtensionContext) {
 		'asciinema.fixTiming',	commandFixTiming));
 	context.subscriptions.push(vscode.commands.registerCommand(
 		'asciinema.joinFiles',	commandJoinFiles));
+	context.subscriptions.push(vscode.commands.registerCommand(
+		'asciinema.convertToVersion',	commandJoinFiles)); // dropdown menu to select to which version convert (withoit current)
 
 	// formatter
 	vscode.languages.registerDocumentFormattingEditProvider('asciinema.asciicast', formatter);
